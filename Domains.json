@@ -255,5 +255,10 @@
   "vortex-win.data.microsoft.com",
   "watson.telemetry.microsoft.com",
   "device-metrics-us.amazon.com",
-  "ib.adnxs.com"
+  "ib.adnxs.com",
+  "udc.yahoo.com",
+  "advertising.yahoo.com",
+  "advertising.yandex.ru",
+  "offerwall.yandex.net",
+  "advertising.apple.com"
 ]
