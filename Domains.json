@@ -254,5 +254,6 @@
   "vortex.data.microsoft.com",
   "vortex-win.data.microsoft.com",
   "watson.telemetry.microsoft.com",
-  "device-metrics-us.amazon.com"
+  "device-metrics-us.amazon.com",
+  "ib.adnxs.com"
 ]
